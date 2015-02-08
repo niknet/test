@@ -1,0 +1,4 @@
+<?
+
+echo "My name NIKNET";
+?>
